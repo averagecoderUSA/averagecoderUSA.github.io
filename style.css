@@ -30,6 +30,8 @@ body {
 
 a {
   color:goldenrod;
+  transition-property: color;
+  transition-duration: 1s;
 }
 
 a:hover {
