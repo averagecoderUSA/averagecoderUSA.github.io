@@ -31,7 +31,8 @@ body {
 a {
   color:goldenrod;
   transition-property: color;
-  transition-duration: 1s;
+  transition-duration: 2s;
+  transition-timing-function: ease-out;
 }
 
 a:hover {
@@ -91,4 +92,14 @@ footer {
   text-align: center;
 }
 
+.hover {
+  color:greenyellow
+  transition-property: color;
+  transition-duration: 2s;
+  transition-timing-function: ease-out;
+}
+
+.hover:hover {
+  color:red;
+}
 
