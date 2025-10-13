@@ -4,6 +4,9 @@ body {
   padding: 25px;
   font-family:monospace;
   background-image: url('https://i.postimg.cc/Sx4km4fL/Screenshot-2025-10-13-132838.jpg');
+  background-size:cover;
+  background-position:cover;
+  background-repeat:no-repeat;
 }
 
 .border {
